@@ -55,7 +55,7 @@ using BERT encoding and cosine similarity.
 
 ## Contact
 
-- Email: [your@email.com](mailto:vineeth.guptha@gmail.com)
-- LinkedIn: [https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/vineethguptha/)
+- Email: [vineeth.guptha@email.com](mailto:vineeth.guptha@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/vineethguptha/](https://www.linkedin.com/in/vineethguptha/)
 
 Thank you for visiting!

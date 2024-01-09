@@ -1,4 +1,5 @@
 # Vineeth Guptha
+theme: jekyll-theme-minimal
 
 Welcome to my personal website repository!
 

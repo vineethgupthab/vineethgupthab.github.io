@@ -8,7 +8,7 @@ A Data Scientist with 4 years of experience in solving business and research pro
 
 ## Work Experience
 
-Data Scientist Nov 2022 – June 2023 Reputation.com Hyderabad, India
+### Data Scientist Nov 2022 – June 2023 Reputation.com Hyderabad, India
 -  Location Alias
 -- Developed a pipeline with the Fellegi-Sunter probabilistic model for clustering business listings across digital directories and sub-clustering child businesses.
 -- Facilitated simultaneous updates across the top 8 search directories for improved online presence for the business.
@@ -26,7 +26,7 @@ using large language models.
 standard business suggestions into the BERT classifier for sentiment analysis and response recommendations using ML models.
 -- The system has accelerated the rate of customer support responses by 30%.
 
-Senior Research Engineer June 2021 – Nov 2023 Wipro AI Labs Bangalore, India
+### Senior Research Engineer June 2021 – Nov 2023 Wipro AI Labs Bangalore, India
 - Helios
 -- Developed a real-time hate tweet identification system with geographic insights by using NLP algorithms such as LSTM to detect tweets with hate content.
 -- Collaborated with teams from UT Austin, IIT-Patna, and IIT Delhi on the project to enhance hate speech detection efficiency and accuracy through an active learning approach.

@@ -1,4 +1,4 @@
-# $${\color{blue}Vineeth Guptha}$$
+# Vineeth Guptha
 
 Welcome to my personal website repository!
 

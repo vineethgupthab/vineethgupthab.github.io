@@ -9,7 +9,7 @@ A Data Scientist with 4 years of experience in solving business and research pro
 ## Work Experience
 
 ### Data Scientist Nov 2022 – June 2023 Reputation.com Hyderabad, India
--  Location Alias
+- Location Alias
   - Developed a pipeline with the Fellegi-Sunter probabilistic model for clustering business listings across digital directories and sub-clustering child businesses.
   - Facilitated simultaneous updates across the top 8 search directories for improved online presence for the business.
    

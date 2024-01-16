@@ -30,8 +30,8 @@ standard business suggestions into the BERT classifier for sentiment analysis an
 
 ### Senior Research Engineer June 2021 – Nov 2023 Wipro AI Labs Bangalore, India
 - Helios
--- Developed a real-time hate tweet identification system with geographic insights by using NLP algorithms such as LSTM to detect tweets with hate content.
--- Collaborated with teams from UT Austin, IIT-Patna, and IIT Delhi on the project to enhance hate speech detection efficiency and accuracy through an active learning approach.
+  - Developed a real-time hate tweet identification system with geographic insights by using NLP algorithms such as LSTM to detect tweets with hate content.
+  - Collaborated with teams from UT Austin, IIT-Patna, and IIT Delhi on the project to enhance hate speech detection efficiency and accuracy through an active learning approach.
   
 - FACTDEMIC (Fake Claim Detection and Meta-Fact Checking Through Textual Entailment-based Validation)
   - Designed and developed a 4-stage web application that utilizes machine learning models and BERT textual entailment to validate and detect fake news on social media automatically.
@@ -39,21 +39,21 @@ standard business suggestions into the BERT classifier for sentiment analysis an
 and follows conceptual rules.
 
 - Antharyami (A smart keyboard for code-mixed language models)
--- Researched the poor performance of code-mixed language models and proposed and implemented a data ingestion strategy to enhance the overall efficiency of the language model.
--- Implemented techniques, including a beam search algorithm from scratch, to enhance word predictions in statistical language models.
+ - Researched the poor performance of code-mixed language models and proposed and implemented a data ingestion strategy to enhance the overall efficiency of the language model.
+ - Implemented techniques, including a beam search algorithm from scratch, to enhance word predictions in statistical language models.
 
 ## Achievements and Research Publications
 
 Language Resources and Evaluation Conference (LREC 2020)
 - [“Minority Positive Sampling for Switching Points - an Anecdote for Code-Mixing Language Modelling”](https://aclanthology.org/2020.lrec-1.764/)
--- Code-Mixing (CM) or language mixing is a social norm in multilingual societies. CM is quite prevalent in social media conversations in multilingual regions around the world. In this paper, we explore the problem of Language Modeling (LM) for code-mixed Hinglish text. To better understand the problem of LM for CM, we initially experimented with several statistical language modeling techniques and consequently experimented with contemporary neural language models including the self-attention models such as GPT and BERT. Our analysis suggests switching-points are the main challenge for the LMCM performance drop, therefore in this paper we introduce the idea of minority positive sampling to selectively induce more sample to achieve better performance.
+Code-Mixing (CM) or language mixing is a social norm in multilingual societies. CM is quite prevalent in social media conversations in multilingual regions around the world. In this paper, we explore the problem of Language Modeling (LM) for code-mixed Hinglish text. To better understand the problem of LM for CM, we initially experimented with several statistical language modeling techniques and consequently experimented with contemporary neural language models including the self-attention models such as GPT and BERT. Our analysis suggests switching-points are the main challenge for the LMCM performance drop, therefore in this paper we introduce the idea of minority positive sampling to selectively induce more sample to achieve better performance.
 
 CONSTRAINT-21 Shared task collocated with AAAI 2021
 - [“Overview of constraint 2021 shared tasks: Detecting English covid-19 fake news and Hindi hostile posts”](https://link.springer.com/chapter/10.1007/978-3-030-73696-5_5)
--- The shared tasks are ‘COVID19 Fake News Detection in English’ and ‘Hostile Post Detection in Hindi’. The tasks attracted 166 and 44 team submissions respectively. The most successful models were BERT or its variations.
+The shared tasks are ‘COVID19 Fake News Detection in English’ and ‘Hostile Post Detection in Hindi’. The tasks attracted 166 and 44 team submissions respectively. The most successful models were BERT or its variations.
 
 - [“Fighting an Infodemic: COVID-19 Fake News Dataset”](https://arxiv.org/abs/2011.03327)
--- Along with COVID-19 pandemic we are also fighting an `infodemic'. Fake news and rumors are rampant on social media. Believing in rumors can cause significant harm. This is further exacerbated at the time of a pandemic. To tackle this, we curate and release a manually annotated dataset of 10,700 social media posts and articles of real and fake news on COVID-19. We benchmark the annotated dataset with four machine learning baselines - Decision Tree, Logistic Regression, Gradient Boost, and Support Vector Machine (SVM). We obtain the best performance of 93.46% F1-score with SVM.
+Along with COVID-19 pandemic we are also fighting an `infodemic'. Fake news and rumors are rampant on social media. Believing in rumors can cause significant harm. This is further exacerbated at the time of a pandemic. To tackle this, we curate and release a manually annotated dataset of 10,700 social media posts and articles of real and fake news on COVID-19. We benchmark the annotated dataset with four machine learning baselines - Decision Tree, Logistic Regression, Gradient Boost, and Support Vector Machine (SVM). We obtain the best performance of 93.46% F1-score with SVM.
 
 Winner of Reputation Automation Hackathon Challenge, 2022
 - Winner of the challenge out of 80+ participants worldwide: developed a framework for automatically mapping doctors to hospitals

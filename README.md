@@ -10,23 +10,23 @@ A Data Scientist with 4 years of experience in solving business and research pro
 
 ### Data Scientist Nov 2022 – June 2023 Reputation.com Hyderabad, India
 -  Location Alias
- - Developed a pipeline with the Fellegi-Sunter probabilistic model for clustering business listings across digital directories and sub-clustering child businesses.
- - Facilitated simultaneous updates across the top 8 search directories for improved online presence for the business.
+  - Developed a pipeline with the Fellegi-Sunter probabilistic model for clustering business listings across digital directories and sub-clustering child businesses.
+  - Facilitated simultaneous updates across the top 8 search directories for improved online presence for the business.
    
 - Google Feature Recommendation
- - Built a customized feature recommendation system with ensemble machine learning algorithms, achieving 92% accuracy in
+  - Built a customized feature recommendation system with ensemble machine learning algorithms, achieving 92% accuracy in
 Google Maps ranking predictions.
- - Designed a data selection strategy, elevating overall performance to 97% accuracy and facilitating data-driven feature
+  - Designed a data selection strategy, elevating overall performance to 97% accuracy and facilitating data-driven feature
 enhancements for a competitive edge.
 
 - Navigation on the product platform using LLM
- - Ideated and developed POC to help users navigate on the platform with general text queries to enhance the user experience by
+  - Ideated and developed POC to help users navigate on the platform with general text queries to enhance the user experience by
 using large language models.
 
 - Request review response
- - Implemented an automated Google review response system using pattern recognition from existing review text and integrated
+  - Implemented an automated Google review response system using pattern recognition from existing review text and integrated
 standard business suggestions into the BERT classifier for sentiment analysis and response recommendations using ML models.
- - The system has accelerated the rate of customer support responses by 30%.
+  - The system has accelerated the rate of customer support responses by 30%.
 
 ### Senior Research Engineer June 2021 – Nov 2023 Wipro AI Labs Bangalore, India
 - Helios (Hate speech detection on Social Media)
@@ -39,8 +39,8 @@ standard business suggestions into the BERT classifier for sentiment analysis an
 and follows conceptual rules.
 
 - Antharyami (A smart keyboard for code-mixed language models)
- - Researched the poor performance of code-mixed language models and proposed and implemented a data ingestion strategy to enhance the overall efficiency of the language model.
- - Implemented techniques, including a beam search algorithm from scratch, to enhance word predictions in statistical language models.
+  - Researched the poor performance of code-mixed language models and proposed and implemented a data ingestion strategy to enhance the overall efficiency of the language model.
+  - Implemented techniques, including a beam search algorithm from scratch, to enhance word predictions in statistical language models.
 
 ## Achievements and Research Publications
 

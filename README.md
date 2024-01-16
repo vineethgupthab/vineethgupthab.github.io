@@ -34,7 +34,7 @@ standard business suggestions into the BERT classifier for sentiment analysis an
 -- Collaborated with teams from UT Austin, IIT-Patna, and IIT Delhi on the project to enhance hate speech detection efficiency and accuracy through an active learning approach.
   
 - FACTDEMIC (Fake Claim Detection and Meta-Fact Checking Through Textual Entailment-based Validation)
--- Designed and developed a 4-stage web application that utilizes machine learning models and BERT textual entailment to validate and detect fake news on social media automatically. The application uses open-source data mining to provide supporting evidence
+- - Designed and developed a 4-stage web application that utilizes machine learning models and BERT textual entailment to validate and detect fake news on social media automatically. The application uses open-source data mining to provide supporting evidence
 and follows conceptual rules.
 
 - Antharyami (A smart keyboard for code-mixed language models)

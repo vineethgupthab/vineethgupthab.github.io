@@ -49,10 +49,10 @@ Language Resources and Evaluation Conference (LREC 2020)
 Code-Mixing (CM) or language mixing is a social norm in multilingual societies. CM is quite prevalent in social media conversations in multilingual regions around the world. In this paper, we explore the problem of Language Modeling (LM) for code-mixed Hinglish text. To better understand the problem of LM for CM, we initially experimented with several statistical language modeling techniques and consequently experimented with contemporary neural language models including the self-attention models such as GPT and BERT. Our analysis suggests switching-points are the main challenge for the LMCM performance drop, therefore in this paper we introduce the idea of minority positive sampling to selectively induce more sample to achieve better performance.
 
 CONSTRAINT-21 Shared task collocated with AAAI 2021
-- [“Overview of constraint 2021 shared tasks: Detecting English covid-19 fake news and Hindi hostile posts”](https://link.springer.com/chapter/10.1007/978-3-030-73696-5_5)
+ - [“Overview of constraint 2021 shared tasks: Detecting English covid-19 fake news and Hindi hostile posts”](https://link.springer.com/chapter/10.1007/978-3-030-73696-5_5)
 The shared tasks are ‘COVID19 Fake News Detection in English’ and ‘Hostile Post Detection in Hindi’. The tasks attracted 166 and 44 team submissions respectively. The most successful models were BERT or its variations.
 
-- [“Fighting an Infodemic: COVID-19 Fake News Dataset”](https://arxiv.org/abs/2011.03327)
+ - [“Fighting an Infodemic: COVID-19 Fake News Dataset”](https://arxiv.org/abs/2011.03327)
 Along with COVID-19 pandemic we are also fighting an `infodemic'. Fake news and rumors are rampant on social media. Believing in rumors can cause significant harm. This is further exacerbated at the time of a pandemic. To tackle this, we curate and release a manually annotated dataset of 10,700 social media posts and articles of real and fake news on COVID-19. We benchmark the annotated dataset with four machine learning baselines - Decision Tree, Logistic Regression, Gradient Boost, and Support Vector Machine (SVM). We obtain the best performance of 93.46% F1-score with SVM.
 
 Winner of Reputation Automation Hackathon Challenge, 2022

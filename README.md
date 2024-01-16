@@ -37,7 +37,7 @@ standard business suggestions into the BERT classifier for sentiment analysis an
 -- Designed and developed a 4-stage web application that utilizes machine learning models and BERT textual entailment to validate and detect fake news on social media automatically. The application uses open-source data mining to provide supporting evidence
 and follows conceptual rules.
 
--Antharyami (A smart keyboard for code-mixed language models)
+- Antharyami (A smart keyboard for code-mixed language models)
 -- Researched the poor performance of code-mixed language models and proposed and implemented a data ingestion strategy to enhance the overall efficiency of the language model.
 -- Implemented techniques, including a beam search algorithm from scratch, to enhance word predictions in statistical language models.
 

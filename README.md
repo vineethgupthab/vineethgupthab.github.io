@@ -18,9 +18,11 @@ A Data Scientist with 4 years of experience in solving business and research pro
 Google Maps ranking predictions.
 -- Designed a data selection strategy, elevating overall performance to 97% accuracy and facilitating data-driven feature
 enhancements for a competitive edge.
+
 - Navigation on the product platform using LLM
 -- Ideated and developed POC to help users navigate on the platform with general text queries to enhance the user experience by
 using large language models.
+
 - Request review response
 -- Implemented an automated Google review response system using pattern recognition from existing review text and integrated
 standard business suggestions into the BERT classifier for sentiment analysis and response recommendations using ML models.
@@ -30,9 +32,11 @@ standard business suggestions into the BERT classifier for sentiment analysis an
 - Helios
 -- Developed a real-time hate tweet identification system with geographic insights by using NLP algorithms such as LSTM to detect tweets with hate content.
 -- Collaborated with teams from UT Austin, IIT-Patna, and IIT Delhi on the project to enhance hate speech detection efficiency and accuracy through an active learning approach.
+  
 - FACTDEMIC (Fake Claim Detection and Meta-Fact Checking Through Textual Entailment-based Validation)
 -- Designed and developed a 4-stage web application that utilizes machine learning models and BERT textual entailment to validate and detect fake news on social media automatically. The application uses open-source data mining to provide supporting evidence
 and follows conceptual rules.
+
 -Antharyami (A smart keyboard for code-mixed language models)
 -- Researched the poor performance of code-mixed language models and proposed and implemented a data ingestion strategy to enhance the overall efficiency of the language model.
 -- Implemented techniques, including a beam search algorithm from scratch, to enhance word predictions in statistical language models.

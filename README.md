@@ -59,6 +59,9 @@ Winner of Reputation Automation Hackathon Challenge, 2022
 - Winner of the challenge out of 80+ participants worldwide: developed a framework for automatically mapping doctors to hospitals
 using BERT encoding and cosine similarity.
 
+Extras
+- I am trying to build a system for students to optimize their resume according to a particular job description. The initial phase of it is developed and deployed [here](https://huggingface.co/spaces/vineethgupthab/job_description_and_resume_analyzer).
+
 ## Contact
 
 - Email: [vineeth.guptha@email.com](mailto:vineeth.guptha@gmail.com)

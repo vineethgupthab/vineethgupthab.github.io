@@ -60,7 +60,7 @@ Winner of Reputation Automation Hackathon Challenge, 2022
 using BERT encoding and cosine similarity.
 
 Extras
-- I am building a system using LLMs for students to optimize their resume according to a particular job description. The initial phase of it is developed and deployed [here](https://huggingface.co/spaces/vineethgupthab/job_description_and_resume_analyzer).
+- I am building a system using LLMs for students to optimize their resume according to a particular job description. The initial phase of it is developed and deployed on [huggingface spaces](https://huggingface.co/spaces/vineethgupthab/job_description_and_resume_analyzer).
 
 ## Contact
 

@@ -1,8 +1,6 @@
-# Vineeth Guptha
+Hello! I am # Vineeth Guptha
 
 Welcome to my personal website repository!
-
-## Overview
 
 I am an AI enthusiast with 4 years of experience in solving business and research problems by applying Machine Learning, Deep Learning, and Natural Language Processing algorithms. Currently pursuing a Masters in Data Science at the University of San Francisco.
 

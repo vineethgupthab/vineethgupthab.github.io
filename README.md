@@ -1,4 +1,4 @@
-Hello! I am # Vineeth Guptha
+# Vineeth Guptha
 
 Welcome to my personal website repository!
 

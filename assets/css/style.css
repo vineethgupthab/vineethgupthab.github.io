@@ -11,10 +11,6 @@
   border-radius: 50% !important;
 }
 
-.typing {
-  color: #fdf8f8; /* Change to your desired color value */
-}
-
 .profile-pic img {
   width: 100%;
   height: auto;
@@ -356,7 +352,7 @@ h3 {
 }
 
 .overlay {
-  background-color: rgba(0, 0, 0, 0.4);
+  background-color: rgba(251, 250, 250, 0.4);
   height: 100%;
   left: 0;
   position: absolute;

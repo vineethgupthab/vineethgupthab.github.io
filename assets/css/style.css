@@ -11,6 +11,10 @@
   border-radius: 50% !important;
 }
 
+.typing {
+  color: #fdf8f8; /* Change to your desired color value */
+}
+
 .profile-pic img {
   width: 100%;
   height: auto;

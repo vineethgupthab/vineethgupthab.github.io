@@ -689,8 +689,6 @@ small {
   }
 }
 
-@import url(https://fonts.googleapis.com/css?family=Josefin+Sans:300,400);
-
 .scrolldown {
   position: relative;
   padding: 11px 35px;
@@ -710,5 +708,3 @@ small {
   color: #ebecf3;
   background-color: white;
 }
-
-#section01 { background: url(https://www.nxworld.net/example/css-scroll-down-button/bg01.jpg) center center / cover no-repeat;}

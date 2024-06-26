@@ -739,7 +739,7 @@ h1, h2, h3 {
   animation: bounce 1200ms ease;
 }
 .scroll-down-arrow:after {
-  content: "scroll";
+  content: "scroll down";
   position: relative;
   top: 40px;
   right: 1px;

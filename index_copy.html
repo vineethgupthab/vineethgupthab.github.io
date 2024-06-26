@@ -42,35 +42,16 @@
   <meta property="article:publisher" content="https://vineethgupthab.github.io/" />
   <meta property="og:image" content="https://vineethgupthab.github.io/examples/preview.JPG" />
 
-  <!-- Add the new style block for scrollbar here -->
   <style>
-    body {
-      height: 100vh;
-      overflow-y: scroll;
+    html, body {
+      height: 100%;
+      margin: 0;
     }
-
-    /* For Webkit browsers (Chrome, Safari) */
-    body::-webkit-scrollbar {
-      width: 20px;
-    }
-
-    body::-webkit-scrollbar-track {
-      background: #140101;
-    }
-
-    body::-webkit-scrollbar-thumb {
-      background-color: #0f0101;
-      border-radius: 6px;
-      border: 3px solid #0d0000;
-    }
-
-    /* For Firefox */
-    body {
-      scrollbar-width: thick;
-      scrollbar-color: #888 #f1f1f1;
+    .side-nav {
+      overflow-y: auto;
+      max-height: 100vh;
     }
   </style>
-  <div class="scroll-down"></div>
 </head>
 
 <body>
@@ -82,7 +63,7 @@
   <!-- Navigation Menu-->
   <!-- Nav class 1 -->
   <nav class="hide-on-small-only">
-    <ul class="side-nav fixed section table-of-contents">
+    <ul class="side-nav fixed section table-of-contents" style="overflow-y: auto; max-height: 100vh;">  
 
       <li class="logo">
         <a id="logo-container" aria-label="Navigate to the beginning of the page" href="#intro"
@@ -295,8 +276,7 @@
                 credit checking framework versus the existing system, ensuring transparent and fair credit assessments for informed business decisions 
                 and  identified potential to expand customer base by 33 million.</li>
               <br>
-              <ul>
-                <ul><b>Tools:</b> Python, Power BI, AWS, Apache Spark, Airflow, DAGs </ul>
+              <ul><b>Tools:</b> Python, Power BI, AWS, Apache Spark, Airflow, DAGs </ul>
             </ul>
           </div>
           <div class="card-action">
@@ -446,7 +426,7 @@
             <ul>
               <b><a href="https://link.springer.com/chapter/10.1007/978-3-030-73696-5_5" target="_blank">Overview of constraint 2021 shared tasks: Detecting English covid-19 fake news and Hindi hostile posts - 69 citations</a></b>
               <br>
-              The shared tasks are 'COVID19 Fake News Detection in English' and 'Hostile Post Detection in Hindi'. 
+              The shared tasks are ‘COVID19 Fake News Detection in English’ and ‘Hostile Post Detection in Hindi’. 
               The tasks attracted 166 and 44 team submissions respectively. The most successful models were BERT or its variations.
             <br><br>
               <b><a href="https://arxiv.org/abs/2011.03327" target="_blank">Fighting an Infodemic: COVID-19 Fake News Dataset - 225 citations</a></b>

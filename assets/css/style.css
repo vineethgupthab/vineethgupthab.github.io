@@ -107,16 +107,14 @@
   letter-spacing: 1px;
   display: inline-block;
   margin-top: 1.5em;
-  border-radius: 50%;
-  -webkit-border-radius: 50%;
-  text-decoration: none; /* Added for clarity */
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
 }
 
-.contactme:hover {
+.contactme:hover{
   color: #627af2;
   background-color: white;
 }
-
 /* main body */
 
 /* body-color */
@@ -741,7 +739,7 @@ h1, h2, h3 {
   animation: bounce 1200ms ease;
 }
 .scroll-down-arrow:after {
-  content: "";
+  content: "scroll";
   position: relative;
   top: 40px;
   right: 1px;

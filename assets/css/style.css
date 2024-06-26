@@ -688,6 +688,9 @@ small {
     background-position-x: 30%;
   }
 }
+
+@import url(https://fonts.googleapis.com/css?family=Lato:300,400|EB+Garamond);
+
 .scrolldown {
   position: relative;
   padding: 11px 35px;
@@ -704,6 +707,17 @@ small {
 }
 
 .scrolldown:hover{
-  color: #627af2;
+  color: #ebecf3;
   background-color: white;
+}
+
+.scrolldown:after {
+  content: "";
+  position: relative;
+  top: 40px;
+  right: 1px;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  
+  border-top: 15px solid #f2f2f2; 
 }

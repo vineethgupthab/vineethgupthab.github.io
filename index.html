@@ -42,7 +42,34 @@
   <meta property="article:publisher" content="https://vineethgupthab.github.io/" />
   <meta property="og:image" content="https://vineethgupthab.github.io/examples/preview.JPG" />
 </head>
+<!-- Add the new style block for scrollbar here -->
+  <style>
+    body {
+      height: 100vh;
+      overflow-y: scroll;
+    }
 
+    /* For Webkit browsers (Chrome, Safari) */
+    body::-webkit-scrollbar {
+      width: 12px;
+    }
+
+    body::-webkit-scrollbar-track {
+      background: #f1f1f1;
+    }
+
+    body::-webkit-scrollbar-thumb {
+      background-color: #888;
+      border-radius: 6px;
+      border: 3px solid #f1f1f1;
+    }
+
+    /* For Firefox */
+    body {
+      scrollbar-width: thin;
+      scrollbar-color: #888 #f1f1f1;
+    }
+  </style>
 <body>
   <!-- Google Tag Manager (noscript) -->
   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PGZH8HT"

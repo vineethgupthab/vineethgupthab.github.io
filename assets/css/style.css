@@ -728,8 +728,8 @@ h1, h2, h3 {
   font-size: 64px;
 }
 .scroll-down-arrow {
-  border: 3px solid #f4f4f4;
-  border-radius: 50%;
+  border: 3px solid hsl(0, 0%, 96%);
+  border-radius: 70%;
   margin: 45px auto;
   width: 65px;
   height: 65px;

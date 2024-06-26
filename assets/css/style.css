@@ -689,6 +689,8 @@ small {
   }
 }
 
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans:300,400);
+
 .scrolldown {
   position: relative;
   padding: 11px 35px;

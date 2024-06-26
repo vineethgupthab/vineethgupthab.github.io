@@ -107,14 +107,16 @@
   letter-spacing: 1px;
   display: inline-block;
   margin-top: 1.5em;
-  border-radius: 5px;
-  -webkit-border-radius: 5px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  text-decoration: none; /* Added for clarity */
 }
 
-.contactme:hover{
+.contactme:hover {
   color: #627af2;
   background-color: white;
 }
+
 /* main body */
 
 /* body-color */
@@ -763,44 +765,6 @@ h1, h2, h3 {
   margin: 0 auto;
   height: 400px;
 }
-.col-3 {
-  width: 32%;
-  margin-right: 18px;
-  margin-top: 100px;
-  display: inline-block;
-  vertical-align: top;
-  opacity: 0;
-  box-sizing: border-box;
-  -webkit-box-shadow: 0px 0px 60px rgba(50, 50, 50, 1);
-  -moz-box-shadow: 0px 0px 60px rgba(50, 50, 50, 1);
-  box-shadow: 0px 0px 10px rgba(50, 50, 50, 1);
-  transition: all 1s ease;
-}
-.col-3 h2 {
-  background-color: #18181a;
-  padding: 30px;
-  color: #f1f1f1;
-  font-style: italic;
-}
-.col-3 p {
-  min-height: 200px;
-  background-color: #f2f2f2;
-  padding: 30px; /* Removed extra single quote here */
-  line-height: 1.6em;
-}
-.col-last {
-  margin-right: 0px;
-}
-.thanks {
-  width: 100%;
-  padding: 300px 0px 400px;
-  text-align: center;
-  background-color: #f6f6f6;
-}
-.thanks h1 {
-  margin-bottom: 20px;
-}
-
 /* Bounce Key Frames */
 @-webkit-keyframes bounce {
   0% {
